@@ -1,0 +1,980 @@
+{
+  "capturedOn": "2026-08-21",
+  "viewport": "1440x900",
+  "format": "jpeg q82",
+  "images": 105,
+  "entries": [
+    {
+      "n": "001",
+      "name": "Dribbble",
+      "url": "https://dribbble.com/",
+      "file": "001-dribbble.jpg",
+      "captured": true,
+      "http": 202,
+      "finalUrl": "https://dribbble.com/"
+    },
+    {
+      "n": "002",
+      "name": "Behance",
+      "url": "https://www.behance.net/",
+      "file": "002-behance.jpg",
+      "captured": true,
+      "http": 403,
+      "finalUrl": "https://www.behance.net/"
+    },
+    {
+      "n": "003",
+      "name": "Awwwards",
+      "url": "https://www.awwwards.com/",
+      "file": "003-awwwards.jpg",
+      "captured": true,
+      "http": 200,
+      "finalUrl": "https://www.awwwards.com/"
+    },
+    {
+      "n": "004",
+      "name": "Godly",
+      "url": "https://godly.website/",
+      "file": "004-godly.jpg",
+      "captured": true,
+      "http": 200,
+      "finalUrl": "https://recent.design/?ref=godly"
+    },
+    {
+      "n": "005",
+      "name": "Land-book",
+      "url": "https://land-book.com/",
+      "file": "005-land-book.jpg",
+      "captured": true,
+      "http": 200,
+      "finalUrl": "https://land-book.com/"
+    },
+    {
+      "n": "006",
+      "name": "Mobbin",
+      "url": "https://mobbin.com/",
+      "file": "006-mobbin.jpg",
+      "captured": true,
+      "http": 200,
+      "finalUrl": "https://mobbin.com/"
+    },
+    {
+      "n": "007",
+      "name": "Screenlane",
+      "url": "https://screenlane.com/",
+      "file": "007-screenlane.jpg",
+      "captured": true,
+      "http": 200,
+      "finalUrl": "https://pageflows.com/"
+    },
+    {
+      "n": "008",
+      "name": "Page Flows",
+      "url": "https://pageflows.com/",
+      "file": "008-page-flows.jpg",
+      "captured": true,
+      "http": 200,
+      "finalUrl": "https://pageflows.com/"
+    },
+    {
+      "n": "009",
+      "name": "UI Sources",
+      "url": "https://www.uisources.com/",
+      "file": "009-ui-sources.jpg",
+      "captured": true,
+      "http": 200,
+      "finalUrl": "https://screensdesign.com/"
+    },
+    {
+      "n": "010",
+      "name": "Collect UI",
+      "url": "https://collectui.com/",
+      "file": "010-collect-ui.jpg",
+      "captured": true,
+      "http": 200,
+      "finalUrl": "https://collectui.com/"
+    },
+    {
+      "n": "011",
+      "name": "GSAP",
+      "url": "https://gsap.com/",
+      "file": "011-gsap.jpg",
+      "captured": true,
+      "http": 200,
+      "finalUrl": "https://gsap.com/"
+    },
+    {
+      "n": "012",
+      "name": "Animations.dev",
+      "url": "https://animations.dev/",
+      "file": "012-animations-dev.jpg",
+      "captured": true,
+      "http": 200,
+      "finalUrl": "https://animations.dev/"
+    },
+    {
+      "n": "013",
+      "name": "Transitions",
+      "url": "https://transitions.dev/",
+      "file": "013-transitions-dev.jpg",
+      "captured": true,
+      "http": 200,
+      "finalUrl": "https://transitions.dev/"
+    },
+    {
+      "n": "014",
+      "name": "Motion Sites",
+      "url": "https://motionsites.ai/",
+      "file": "014-motion-sites.jpg",
+      "captured": true,
+      "http": 200,
+      "finalUrl": "https://motionsites.ai/"
+    },
+    {
+      "n": "015",
+      "name": "Motion.page Showcase",
+      "url": "https://motion.page/showcase/",
+      "file": "015-motion-page.jpg",
+      "captured": true,
+      "http": 404,
+      "finalUrl": "https://motion.page/showcase/"
+    },
+    {
+      "n": "016",
+      "name": "Animography",
+      "url": "https://animography.net/",
+      "file": "016-animography.jpg",
+      "captured": true,
+      "http": 200,
+      "finalUrl": "https://animography.net/"
+    },
+    {
+      "n": "017",
+      "name": "React Bits",
+      "url": "https://reactbits.dev/text-animations/shiny-text",
+      "file": "017-react-bits.jpg",
+      "captured": true,
+      "http": 200,
+      "finalUrl": "https://reactbits.dev/text-animations/shiny-text"
+    },
+    {
+      "n": "018",
+      "name": "Coolors",
+      "url": "https://coolors.co/",
+      "file": "018-coolors.jpg",
+      "captured": true,
+      "http": 200,
+      "finalUrl": "https://coolors.co/"
+    },
+    {
+      "n": "019",
+      "name": "Color Hunt",
+      "url": "https://colorhunt.co/",
+      "file": "019-color-hunt.jpg",
+      "captured": true,
+      "http": 200,
+      "finalUrl": "https://colorhunt.co/"
+    },
+    {
+      "n": "020",
+      "name": "Realtime Colors",
+      "url": "https://www.realtimecolors.com/",
+      "file": "020-realtime-colors.jpg",
+      "captured": true,
+      "http": 200,
+      "finalUrl": "https://www.realtimecolors.com/?colors=050315-fbfbfe-2f27ce-dedcff-433bff&fonts=Inter-Inter"
+    },
+    {
+      "n": "021",
+      "name": "Adobe Color",
+      "url": "https://color.adobe.com/",
+      "file": "021-adobe-color.jpg",
+      "captured": true,
+      "http": 200,
+      "finalUrl": "https://color.adobe.com/"
+    },
+    {
+      "n": "022",
+      "name": "Happy Hues",
+      "url": "https://www.happyhues.co/",
+      "file": "022-happy-hues.jpg",
+      "captured": true,
+      "http": 200,
+      "finalUrl": "https://www.happyhues.co/"
+    },
+    {
+      "n": "023",
+      "name": "Google Fonts",
+      "url": "https://fonts.google.com/",
+      "file": "023-google-fonts.jpg",
+      "captured": true,
+      "http": 200,
+      "finalUrl": "https://fonts.google.com/"
+    },
+    {
+      "n": "024",
+      "name": "Fontshare",
+      "url": "https://www.fontshare.com/",
+      "file": "024-fontshare.jpg",
+      "captured": true,
+      "http": 200,
+      "finalUrl": "https://www.fontshare.com/"
+    },
+    {
+      "n": "025",
+      "name": "Typewolf",
+      "url": "https://www.typewolf.com/",
+      "file": "025-typewolf.jpg",
+      "captured": true,
+      "http": 200,
+      "finalUrl": "https://www.typewolf.com/"
+    },
+    {
+      "n": "026",
+      "name": "Fontpair",
+      "url": "https://www.fontpair.co/",
+      "file": "026-fontpair.jpg",
+      "captured": true,
+      "http": 200,
+      "finalUrl": "https://fontpair.co/"
+    },
+    {
+      "n": "027",
+      "name": "Fonts In Use",
+      "url": "https://fontsinuse.com/",
+      "file": "027-fonts-in-use.jpg",
+      "captured": true,
+      "http": 200,
+      "finalUrl": "https://fontsinuse.com/"
+    },
+    {
+      "n": "028",
+      "name": "The SVG",
+      "url": "https://thesvg.org/",
+      "file": "028-the-svg.jpg",
+      "captured": true,
+      "http": 200,
+      "finalUrl": "https://thesvg.org/"
+    },
+    {
+      "n": "029",
+      "name": "SVG Logos",
+      "url": "https://svglogos.dev/",
+      "file": "029-svg-logos.jpg",
+      "captured": true,
+      "http": 200,
+      "finalUrl": "https://svglogos.dev/"
+    },
+    {
+      "n": "030",
+      "name": "Lobe Icons",
+      "url": "https://icons.lobehub.com/",
+      "file": "030-lobe-icons.jpg",
+      "captured": true,
+      "http": 200,
+      "finalUrl": "https://icons.lobehub.com/"
+    },
+    {
+      "n": "031",
+      "name": "Iconify",
+      "url": "https://icon-sets.iconify.design/",
+      "file": "031-iconify.jpg",
+      "captured": true,
+      "http": 200,
+      "finalUrl": "https://icon-sets.iconify.design/"
+    },
+    {
+      "n": "032",
+      "name": "Lucide",
+      "url": "https://lucide.dev/",
+      "file": "032-lucide.jpg",
+      "captured": true,
+      "http": 200,
+      "finalUrl": "https://lucide.dev/"
+    },
+    {
+      "n": "033",
+      "name": "Heroicons",
+      "url": "https://heroicons.com/",
+      "file": "033-heroicons.jpg",
+      "captured": true,
+      "http": 200,
+      "finalUrl": "https://heroicons.com/"
+    },
+    {
+      "n": "034",
+      "name": "SVG Repo",
+      "url": "https://www.svgrepo.com/",
+      "file": "034-svg-repo.jpg",
+      "captured": true,
+      "http": 429,
+      "finalUrl": "https://www.svgrepo.com/"
+    },
+    {
+      "n": "035",
+      "name": "Storyset",
+      "url": "https://storyset.com/",
+      "file": "035-storyset.jpg",
+      "captured": true,
+      "http": 200,
+      "finalUrl": "https://storyset.com/"
+    },
+    {
+      "n": "036",
+      "name": "unDraw",
+      "url": "https://undraw.co/",
+      "file": "036-undraw.jpg",
+      "captured": true,
+      "http": 200,
+      "finalUrl": "https://undraw.co/"
+    },
+    {
+      "n": "037",
+      "name": "Blush",
+      "url": "https://blush.design/",
+      "file": "037-blush.jpg",
+      "captured": true,
+      "http": 200,
+      "finalUrl": "https://blush.design/"
+    },
+    {
+      "n": "038",
+      "name": "Lummi",
+      "url": "https://www.lummi.ai/",
+      "file": "038-lummi.jpg",
+      "captured": true,
+      "http": 200,
+      "finalUrl": "https://www.lummi.ai/"
+    },
+    {
+      "n": "039",
+      "name": "Whirrls",
+      "url": "https://www.whirrls.com/",
+      "file": "039-whirrls.jpg",
+      "captured": true,
+      "http": 200,
+      "finalUrl": "https://www.whirrls.com/"
+    },
+    {
+      "n": "040",
+      "name": "World in Dots",
+      "url": "https://www.worldindots.com/",
+      "file": "040-world-in-dots.jpg",
+      "captured": true,
+      "http": 200,
+      "finalUrl": "https://www.worldindots.com/"
+    },
+    {
+      "n": "041",
+      "name": "Unsplash",
+      "url": "https://unsplash.com/",
+      "file": "041-unsplash.jpg",
+      "captured": true,
+      "http": 401,
+      "finalUrl": "https://unsplash.com/.within.website?redir=%2F"
+    },
+    {
+      "n": "042",
+      "name": "Pexels",
+      "url": "https://www.pexels.com/",
+      "file": "042-pexels.jpg",
+      "captured": true,
+      "http": 200,
+      "finalUrl": "https://www.pexels.com/"
+    },
+    {
+      "n": "043",
+      "name": "Pixabay",
+      "url": "https://pixabay.com/",
+      "file": "043-pixabay.jpg",
+      "captured": true,
+      "http": 200,
+      "finalUrl": "https://pixabay.com/"
+    },
+    {
+      "n": "044",
+      "name": "Cosmos",
+      "url": "https://www.cosmos.so/",
+      "file": "044-cosmos.jpg",
+      "captured": true,
+      "http": 200,
+      "finalUrl": "https://www.cosmos.so/"
+    },
+    {
+      "n": "045",
+      "name": "Spline",
+      "url": "https://spline.design/",
+      "file": "045-spline.jpg",
+      "captured": true,
+      "http": 200,
+      "finalUrl": "https://spline.design/"
+    },
+    {
+      "n": "046",
+      "name": "Three.js Examples",
+      "url": "https://threejs.org/examples/",
+      "file": "046-threejs.jpg",
+      "captured": true,
+      "http": 200,
+      "finalUrl": "https://threejs.org/examples/"
+    },
+    {
+      "n": "047",
+      "name": "Womp",
+      "url": "https://womp.com/",
+      "file": "047-womp.jpg",
+      "captured": true,
+      "http": 200,
+      "finalUrl": "https://womp.com/"
+    },
+    {
+      "n": "048",
+      "name": "Pixcap",
+      "url": "https://pixcap.com/",
+      "file": null,
+      "captured": false,
+      "http": null,
+      "finalUrl": null
+    },
+    {
+      "n": "049",
+      "name": "Shots",
+      "url": "https://shots.so/",
+      "file": "049-shots.jpg",
+      "captured": true,
+      "http": 200,
+      "finalUrl": "https://shots.so/"
+    },
+    {
+      "n": "050",
+      "name": "Mockuuups Studio",
+      "url": "https://mockuuups.studio/",
+      "file": "050-mockuuups.jpg",
+      "captured": true,
+      "http": 200,
+      "finalUrl": "https://mockuuups.studio/"
+    },
+    {
+      "n": "051",
+      "name": "Angle",
+      "url": "https://angle.sh/",
+      "file": "051-angle.jpg",
+      "captured": true,
+      "http": 200,
+      "finalUrl": "https://angle.sh/"
+    },
+    {
+      "n": "052",
+      "name": "Rotato",
+      "url": "https://rotato.app/",
+      "file": "052-rotato.jpg",
+      "captured": true,
+      "http": 200,
+      "finalUrl": "https://rotato.app/"
+    },
+    {
+      "n": "053",
+      "name": "Impeccable Style",
+      "url": "https://impeccable.style/",
+      "file": "053-impeccable-style.jpg",
+      "captured": true,
+      "http": 200,
+      "finalUrl": "https://impeccable.style/"
+    },
+    {
+      "n": "054",
+      "name": "Styles Refero",
+      "url": "https://styles.refero.design/",
+      "file": "054-styles-refero.jpg",
+      "captured": true,
+      "http": 200,
+      "finalUrl": "https://styles.refero.design/"
+    },
+    {
+      "n": "055",
+      "name": "Brandfetch",
+      "url": "https://brandfetch.com/",
+      "file": null,
+      "captured": false,
+      "http": 403,
+      "finalUrl": "https://brandfetch.com/?__cf_chl_rt_tk=KuiUlLWxd_A0NuSYqhOX4rsryaz1sW2swrwK4IXYY4Q-1787298150-1.0.1.1-vXVgQoSQQDURp_V9OBCGRp9xD7Q_GcjxyIA4ID5xP_U"
+    },
+    {
+      "n": "056",
+      "name": "Design Systems Repo",
+      "url": "https://designsystemsrepo.com/",
+      "file": "056-design-systems-repo.jpg",
+      "captured": true,
+      "http": 200,
+      "finalUrl": "https://designsystemsrepo.com/"
+    },
+    {
+      "n": "057",
+      "name": "Startups Gallery",
+      "url": "https://startups.gallery/",
+      "file": "057-startups-gallery.jpg",
+      "captured": true,
+      "http": 200,
+      "finalUrl": "https://startups.gallery/"
+    },
+    {
+      "n": "058",
+      "name": "Base UI",
+      "url": "https://base-ui.com/",
+      "file": "058-base-ui.jpg",
+      "captured": true,
+      "http": 200,
+      "finalUrl": "https://base-ui.com/"
+    },
+    {
+      "n": "059",
+      "name": "shadcn/ui",
+      "url": "https://ui.shadcn.com/",
+      "file": "059-shadcn-ui.jpg",
+      "captured": true,
+      "http": 200,
+      "finalUrl": "https://ui.shadcn.com/"
+    },
+    {
+      "n": "060",
+      "name": "HeroUI",
+      "url": "https://www.heroui.com/",
+      "file": "060-heroui.jpg",
+      "captured": true,
+      "http": 200,
+      "finalUrl": "https://heroui.com/"
+    },
+    {
+      "n": "061",
+      "name": "Radix UI",
+      "url": "https://www.radix-ui.com/",
+      "file": "061-radix-ui.jpg",
+      "captured": true,
+      "http": 200,
+      "finalUrl": "https://www.radix-ui.com/"
+    },
+    {
+      "n": "062",
+      "name": "React Aria",
+      "url": "https://react-spectrum.adobe.com/react-aria/",
+      "file": "062-react-aria.jpg",
+      "captured": true,
+      "http": 200,
+      "finalUrl": "https://react-aria.adobe.com/"
+    },
+    {
+      "n": "063",
+      "name": "Headless UI",
+      "url": "https://headlessui.com/",
+      "file": "063-headless-ui.jpg",
+      "captured": true,
+      "http": 200,
+      "finalUrl": "https://headlessui.com/"
+    },
+    {
+      "n": "064",
+      "name": "MUI",
+      "url": "https://mui.com/",
+      "file": "064-mui.jpg",
+      "captured": true,
+      "http": 200,
+      "finalUrl": "https://mui.com/"
+    },
+    {
+      "n": "065",
+      "name": "Mantine",
+      "url": "https://mantine.dev/",
+      "file": "065-mantine.jpg",
+      "captured": true,
+      "http": 200,
+      "finalUrl": "https://mantine.dev/"
+    },
+    {
+      "n": "066",
+      "name": "Chakra UI",
+      "url": "https://chakra-ui.com/",
+      "file": "066-chakra-ui.jpg",
+      "captured": true,
+      "http": 200,
+      "finalUrl": "https://chakra-ui.com/"
+    },
+    {
+      "n": "067",
+      "name": "Ant Design",
+      "url": "https://ant.design/",
+      "file": "067-ant-design.jpg",
+      "captured": true,
+      "http": 200,
+      "finalUrl": "https://ant.design/"
+    },
+    {
+      "n": "068",
+      "name": "Ark UI",
+      "url": "https://ark-ui.com/",
+      "file": "068-ark-ui.jpg",
+      "captured": true,
+      "http": 200,
+      "finalUrl": "https://ark-ui.com/"
+    },
+    {
+      "n": "069",
+      "name": "daisyUI",
+      "url": "https://daisyui.com/",
+      "file": "069-daisyui.jpg",
+      "captured": true,
+      "http": 200,
+      "finalUrl": "https://daisyui.com/"
+    },
+    {
+      "n": "070",
+      "name": "Apple HIG",
+      "url": "https://developer.apple.com/design/human-interface-guidelines",
+      "file": "070-apple-hig.jpg",
+      "captured": true,
+      "http": 200,
+      "finalUrl": "https://developer.apple.com/design/human-interface-guidelines"
+    },
+    {
+      "n": "071",
+      "name": "Material Design 3",
+      "url": "https://m3.material.io/",
+      "file": "071-material-design.jpg",
+      "captured": true,
+      "http": 200,
+      "finalUrl": "https://m3.material.io/"
+    },
+    {
+      "n": "072",
+      "name": "Laws of UX",
+      "url": "https://lawsofux.com/",
+      "file": "072-laws-of-ux.jpg",
+      "captured": true,
+      "http": 200,
+      "finalUrl": "https://lawsofux.com/"
+    },
+    {
+      "n": "073",
+      "name": "WebAIM Contrast Checker",
+      "url": "https://webaim.org/resources/contrastchecker/",
+      "file": "073-webaim-contrast.jpg",
+      "captured": true,
+      "http": 200,
+      "finalUrl": "https://webaim.org/resources/contrastchecker/"
+    },
+    {
+      "n": "074",
+      "name": "The A11y Project",
+      "url": "https://www.a11yproject.com/",
+      "file": "074-a11y-project.jpg",
+      "captured": true,
+      "http": 200,
+      "finalUrl": "https://www.a11yproject.com/"
+    },
+    {
+      "n": "075",
+      "name": "Toolfolio",
+      "url": "https://toolfolio.io/",
+      "file": "075-toolfolio.jpg",
+      "captured": true,
+      "http": 200,
+      "finalUrl": "https://toolfolio.com/"
+    },
+    {
+      "n": "076",
+      "name": "GetDesign",
+      "url": "https://getdesign.md/",
+      "file": "076-getdesign.jpg",
+      "captured": true,
+      "http": 200,
+      "finalUrl": "https://getdesign.md/"
+    },
+    {
+      "n": "077",
+      "name": "Taste Skill",
+      "url": "https://www.tasteskill.dev/",
+      "file": "077-taste-skill.jpg",
+      "captured": true,
+      "http": 200,
+      "finalUrl": "https://www.tasteskill.dev/"
+    },
+    {
+      "n": "078",
+      "name": "UI Goodies",
+      "url": "https://www.uigoodies.com/",
+      "file": "078-ui-goodies.jpg",
+      "captured": true,
+      "http": 200,
+      "finalUrl": "https://uigoodies.com/"
+    },
+    {
+      "n": "079",
+      "name": "Sidebar",
+      "url": "https://sidebar.io/",
+      "file": "079-sidebar.jpg",
+      "captured": true,
+      "http": 200,
+      "finalUrl": "https://sidebar.io/"
+    },
+    {
+      "n": "080",
+      "name": "Superset",
+      "url": "https://github.com/superset-sh/superset",
+      "file": "080-superset.jpg",
+      "captured": true,
+      "http": 200,
+      "finalUrl": "https://github.com/superset-sh/superset"
+    },
+    {
+      "n": "081",
+      "name": "Dribbble \u2014 Pricing",
+      "url": "https://dribbble.com/pro",
+      "file": "081-pricing-dribbble.jpg",
+      "captured": true,
+      "http": 200,
+      "finalUrl": "https://dribbble.com/pro"
+    },
+    {
+      "n": "082",
+      "name": "Land-book \u2014 Pricing",
+      "url": "https://land-book.com/pricing",
+      "file": "082-pricing-land-book.jpg",
+      "captured": true,
+      "http": 404,
+      "finalUrl": "https://land-book.com/pricing"
+    },
+    {
+      "n": "083",
+      "name": "Mobbin \u2014 Pricing",
+      "url": "https://mobbin.com/pricing",
+      "file": "083-pricing-mobbin.jpg",
+      "captured": true,
+      "http": 200,
+      "finalUrl": "https://mobbin.com/pricing"
+    },
+    {
+      "n": "084",
+      "name": "Page Flows \u2014 Pricing",
+      "url": "https://pageflows.com/pricing/",
+      "file": "084-pricing-page-flows.jpg",
+      "captured": true,
+      "http": 200,
+      "finalUrl": "https://pageflows.com/pricing/"
+    },
+    {
+      "n": "085",
+      "name": "Coolors \u2014 Pricing",
+      "url": "https://coolors.co/pro",
+      "file": "085-pricing-coolors.jpg",
+      "captured": true,
+      "http": 200,
+      "finalUrl": "https://coolors.co/pro"
+    },
+    {
+      "n": "086",
+      "name": "Fontpair \u2014 Pricing",
+      "url": "https://www.fontpair.co/pricing",
+      "file": "086-pricing-fontpair.jpg",
+      "captured": true,
+      "http": 200,
+      "finalUrl": "https://fontpair.co/pricing"
+    },
+    {
+      "n": "087",
+      "name": "Transitions \u2014 Pricing",
+      "url": "https://transitions.dev/pricing",
+      "file": "087-pricing-transitions.jpg",
+      "captured": true,
+      "http": 404,
+      "finalUrl": "https://transitions.dev/pricing"
+    },
+    {
+      "n": "088",
+      "name": "Animations.dev \u2014 Pricing",
+      "url": "https://animations.dev/#pricing",
+      "file": "088-pricing-animations-dev.jpg",
+      "captured": true,
+      "http": 200,
+      "finalUrl": "https://animations.dev/#pricing"
+    },
+    {
+      "n": "089",
+      "name": "Blush \u2014 Pricing",
+      "url": "https://blush.design/plans",
+      "file": "089-pricing-blush.jpg",
+      "captured": true,
+      "http": 200,
+      "finalUrl": "https://blush.design/plans"
+    },
+    {
+      "n": "090",
+      "name": "Lummi \u2014 Pricing",
+      "url": "https://www.lummi.ai/pricing",
+      "file": "090-pricing-lummi.jpg",
+      "captured": true,
+      "http": 200,
+      "finalUrl": "https://www.lummi.ai/pricing"
+    },
+    {
+      "n": "091",
+      "name": "Storyset \u2014 License",
+      "url": "https://storyset.com/legal/license",
+      "file": "091-pricing-storyset.jpg",
+      "captured": true,
+      "http": 404,
+      "finalUrl": "https://storyset.com/legal/license"
+    },
+    {
+      "n": "092",
+      "name": "unDraw Plus \u2014 Pricing",
+      "url": "https://plus.undraw.co/",
+      "file": "092-pricing-undraw-plus.jpg",
+      "captured": true,
+      "http": 200,
+      "finalUrl": "https://plus.undraw.co/"
+    },
+    {
+      "n": "093",
+      "name": "Spline \u2014 Pricing",
+      "url": "https://spline.design/pricing",
+      "file": "093-pricing-spline.jpg",
+      "captured": true,
+      "http": 200,
+      "finalUrl": "https://spline.design/pricing"
+    },
+    {
+      "n": "094",
+      "name": "Womp \u2014 Pricing",
+      "url": "https://womp.com/pricing",
+      "file": "094-pricing-womp.jpg",
+      "captured": true,
+      "http": 200,
+      "finalUrl": "https://womp.com/pricing/"
+    },
+    {
+      "n": "095",
+      "name": "Mockuuups \u2014 Pricing",
+      "url": "https://mockuuups.studio/pricing",
+      "file": "095-pricing-mockuuups.jpg",
+      "captured": true,
+      "http": 200,
+      "finalUrl": "https://mockuuups.studio/pricing"
+    },
+    {
+      "n": "096",
+      "name": "Angle \u2014 Pricing",
+      "url": "https://angle.sh/pricing",
+      "file": "096-pricing-angle.jpg",
+      "captured": true,
+      "http": 200,
+      "finalUrl": "https://angle.sh/pricing/"
+    },
+    {
+      "n": "097",
+      "name": "Rotato \u2014 Pricing",
+      "url": "https://rotato.app/pricing",
+      "file": "097-pricing-rotato.jpg",
+      "captured": true,
+      "http": 200,
+      "finalUrl": "https://rotato.app/pricing"
+    },
+    {
+      "n": "098",
+      "name": "Brandfetch \u2014 API Pricing",
+      "url": "https://brandfetch.com/developers/pricing",
+      "file": null,
+      "captured": false,
+      "http": 403,
+      "finalUrl": "https://brandfetch.com/developers/pricing?__cf_chl_rt_tk=cYy.4Z2oKn7jFPF753qljeCB9.FR6tjLZnrsmMXU35M-1787298209-1.0.1.1-qOu9dBzOK7RBdQ7pFGl6GSZ5eVtEXkKZYaT7X44keyo"
+    },
+    {
+      "n": "099",
+      "name": "MUI X \u2014 Pricing",
+      "url": "https://mui.com/pricing/",
+      "file": "099-pricing-mui-x.jpg",
+      "captured": true,
+      "http": 200,
+      "finalUrl": "https://mui.com/pricing/"
+    },
+    {
+      "n": "100",
+      "name": "Chakra UI Pro \u2014 Pricing",
+      "url": "https://pro.chakra-ui.com/pricing",
+      "file": "100-pricing-chakra-pro.jpg",
+      "captured": true,
+      "http": 200,
+      "finalUrl": "https://pro.chakra-ui.com/pricing"
+    },
+    {
+      "n": "101",
+      "name": "Ark Plus \u2014 Pricing",
+      "url": "https://ark-ui.com/plus",
+      "file": "101-pricing-ark-plus.jpg",
+      "captured": true,
+      "http": 200,
+      "finalUrl": "https://ark-ui.com/plus"
+    },
+    {
+      "n": "102",
+      "name": "Unsplash+ \u2014 Pricing",
+      "url": "https://unsplash.com/plus",
+      "file": "102-pricing-unsplash-plus.jpg",
+      "captured": true,
+      "http": 401,
+      "finalUrl": "https://unsplash.com/.within.website?redir=%2Fplus"
+    },
+    {
+      "n": "103",
+      "name": "Lucide \u2014 Icon grid",
+      "url": "https://lucide.dev/icons/",
+      "file": "103-deep-lucide-icons.jpg",
+      "captured": true,
+      "http": null,
+      "finalUrl": null
+    },
+    {
+      "n": "104",
+      "name": "shadcn/ui \u2014 Blocks gallery",
+      "url": "https://ui.shadcn.com/blocks",
+      "file": "104-deep-shadcn-blocks.jpg",
+      "captured": true,
+      "http": null,
+      "finalUrl": null
+    },
+    {
+      "n": "105",
+      "name": "Material 3 \u2014 Color system",
+      "url": "https://m3.material.io/styles/color/system/overview",
+      "file": "105-deep-material-color.jpg",
+      "captured": true,
+      "http": null,
+      "finalUrl": null
+    },
+    {
+      "n": "106",
+      "name": "Iconify \u2014 Icon set browser",
+      "url": "https://icon-sets.iconify.design/lucide/",
+      "file": "106-deep-iconify-sets.jpg",
+      "captured": true,
+      "http": null,
+      "finalUrl": null
+    },
+    {
+      "n": "107",
+      "name": "Typewolf \u2014 Site of the Day",
+      "url": "https://www.typewolf.com/site-of-the-day",
+      "file": "107-deep-typewolf-lookbooks.jpg",
+      "captured": true,
+      "http": null,
+      "finalUrl": null
+    },
+    {
+      "n": "108",
+      "name": "Refero \u2014 DESIGN.md example",
+      "url": "https://styles.refero.design/",
+      "file": "108-deep-refero-styles.jpg",
+      "captured": true,
+      "http": null,
+      "finalUrl": null
+    }
+  ]
+}
